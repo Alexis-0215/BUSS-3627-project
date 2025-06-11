@@ -78,7 +78,7 @@ BUSS-3627-project/
 
 ## 🔗 相关链接
 
-- 📘 项目报告：[查看 PDF](https://github.com/Alexis-0215/BUSS-3627-project/blob/main/report/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B%E6%9C%9F%E6%9C%AB%E6%8A%A5%E5%91%8A.pdf)
+- 📘 项目报告：[查看 PDF](https://latex.sjtu.edu.cn/read/jvvzxbmjsqjc#8dcffb)
 - 💻 GitHub 仓库地址：[https://github.com/Alexis-0215/BUSS-3627-project](https://github.com/Alexis-0215/BUSS-3627-project)
 
 ## 👥 小组分工
